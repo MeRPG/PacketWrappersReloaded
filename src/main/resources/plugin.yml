@@ -1,0 +1,6 @@
+name: PacketWrappersReloaded
+main: com.parapvp.packetWrappersReloaded.PacketWrappersReloaded
+author: Comphenix
+authors: [Jaxon]
+description: Contains wrappers for each packet in Minecraft.
+version: 1.0-RELEASE
