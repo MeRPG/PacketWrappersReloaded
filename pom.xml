@@ -4,7 +4,7 @@
 	<groupId>com.parapvp.packetWrappersReloaded</groupId>
 	<artifactId>PacketWrappersReloaded</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0-RELEASE</version>
+	<version>1.0.1-RELEASE</version>
 	<name>PacketWrappersReloaded</name>
     <description>Contains wrappers for each packet in Minecraft.</description>
 
